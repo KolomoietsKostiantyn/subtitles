@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\subtitelsParser\subtitelsParser\bin\Debug\subtitelsParser.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\subtitelsParser\subtitelsParser\bin\Debug\subtitelsParser.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\subtitelsParser\subtitelsParser\bin\Debug\subtitelsParser.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\subtitelsParser\subtitelsParser\obj\Debug\subtitelsParser.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\subtitelsParser\subtitelsParser\obj\Debug\subtitelsParser.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\subtitelsParser\subtitelsParser\obj\Debug\subtitelsParser.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\subtitelsParser\subtitelsParser\obj\Debug\subtitelsParser.pdb
