@@ -14,7 +14,7 @@ namespace subtitelsParser
         static void Main(string[] args)
         {
             string allText;
-            using (StreamReader reader = new StreamReader("shrek-yify-english.srt"))
+            using (StreamReader reader = new StreamReader("abyss.txt")) //shrek-yify-english.srt
             {
                 allText = reader.ReadToEnd();
             }
@@ -81,13 +81,13 @@ namespace subtitelsParser
 
 
             Clear("new1.txt", wordContainer);
-            //Clear("new2.txt", wordContainer);
+            Clear("new2.txt", wordContainer);
 
             List<Word> words = wordContainer.Returnsorted();
             int j = 0;
             for (int i = 0; i < words.Count; i++)
             {
-                if (words[i].Count > 1)
+                if (words[i].Count > 2)
                 {
                     Console.WriteLine(words[i].Name + "   " + words[i].Count + "  " + j);
                     j++;
