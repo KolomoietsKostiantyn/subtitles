@@ -12,3 +12,8 @@ C:\Users\User\Documents\GitHub\subtitles\subtitelsParser\subtitelsParser\obj\Deb
 C:\Users\User\Documents\GitHub\subtitles\subtitelsParser\subtitelsParser\obj\Debug\subtitelsParser.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\GitHub\subtitles\subtitelsParser\subtitelsParser\obj\Debug\subtitelsParser.exe
 C:\Users\User\Documents\GitHub\subtitles\subtitelsParser\subtitelsParser\obj\Debug\subtitelsParser.pdb
+C:\Users\User\Documents\GitHub\subtitles\subtitelsParser\subtitelsParser\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\GitHub\subtitles\subtitelsParser\subtitelsParser\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\GitHub\subtitles\subtitelsParser\subtitelsParser\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\GitHub\subtitles\subtitelsParser\subtitelsParser\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\GitHub\subtitles\subtitelsParser\subtitelsParser\obj\Debug\subtitelsParser.csproj.CopyComplete

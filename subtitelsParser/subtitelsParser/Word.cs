@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace subtitelsParser
 {
-    class Word:IComparable
+    class Word1:IComparable
     {
         public string Name { get; set; }
         public int Count { get; set; }
 
         public int CompareTo(object obj)
         {
-            Word word = obj as Word;
+            Word1 word = obj as Word1;
 
             if (word.Count > Count)
             {
