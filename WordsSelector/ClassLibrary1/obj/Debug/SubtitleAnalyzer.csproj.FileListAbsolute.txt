@@ -1,0 +1,2 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\WordsSelector\ClassLibrary1\obj\Debug\SubtitleAnalyzer.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\WordsSelector\ClassLibrary1\obj\Debug\SubtitleAnalyzer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordsSelector", "WordsSelector\WordsSelector.csproj", "{DCA80686-0E91-493D-BEE3-E8F08B1A993D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubtitleAnalyzer", "ClassLibrary1\SubtitleAnalyzer.csproj", "{79526272-E931-4CE1-8251-683CCB059E90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCA80686-0E91-493D-BEE3-E8F08B1A993D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA80686-0E91-493D-BEE3-E8F08B1A993D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA80686-0E91-493D-BEE3-E8F08B1A993D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA80686-0E91-493D-BEE3-E8F08B1A993D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79526272-E931-4CE1-8251-683CCB059E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79526272-E931-4CE1-8251-683CCB059E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79526272-E931-4CE1-8251-683CCB059E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79526272-E931-4CE1-8251-683CCB059E90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDF41C2F-380B-4260-9A6B-D55562AD96E2}
+	EndGlobalSection
+EndGlobal

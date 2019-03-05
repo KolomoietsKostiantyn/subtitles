@@ -8,11 +8,11 @@ namespace subtitelsParser
 {
     class WordContainer
     {
-        public List<Word1> words = new List<Word1>();
+        public List<Word> words = new List<Word>();
 
         public bool Contain(string wd)
         {
-            foreach (Word1 item in words)
+            foreach (Word item in words)
             {
                 if (item.Name == wd)
                 {
@@ -38,10 +38,10 @@ namespace subtitelsParser
 
         public void Add(string name, int count)
         {
-            words.Add(new Word1() {Name = name, Count = count });
+            words.Add(new Word() {Name = name, Count = count });
         }
 
-        public List<Word1> Returnsorted()
+        public List<Word> Returnsorted()
         {
             words.Sort();
             return words;

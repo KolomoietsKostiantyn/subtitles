@@ -86,9 +86,9 @@ namespace subtitelsParser
             Clear("new2.txt", wordContainer);
             Clear1("1000.txt", wordContainer);
             List<string> existingWords = GetExistingWorlds();
-            List<Word1> words = wordContainer.Returnsorted();
+            List<Word> words = wordContainer.Returnsorted();
 
-            List<Word1> selectedWords = ValidateCorectWords(words, existingWords);
+            List<Word> selectedWords = ValidateCorectWords(words, existingWords);
             selectedWords.Sort();
             int j = 0;
             for (int i = 0; i < selectedWords.Count; i++)
@@ -131,10 +131,10 @@ namespace subtitelsParser
 
 
 
-        public static List<Word1> ValidateCorectWords(List<Word1> word1s, List<string> existings)
+        public static List<Word> ValidateCorectWords(List<Word> word1s, List<string> existings)
         {
-            List<Word1> result = new List<Word1>();
-            foreach (Word1 item in word1s)
+            List<Word> result = new List<Word>();
+            foreach (Word item in word1s)
             {
                 bool flag = false;
                 foreach (var exist in existings)
@@ -147,7 +147,7 @@ namespace subtitelsParser
                 }
                 if (flag)
                 {
-                    result.Add(new Word1() { Count = item.Count, Name = item.Name });
+                    result.Add(new Word() { Count = item.Count, Name = item.Name });
                 }
             }
 
